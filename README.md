@@ -12,9 +12,11 @@ bind = , F10, exec, bash -c '~/.config/hypr/wf-recorder-kill.sh'
 ### for screen shot:
 [bash](https://www.gnu.org/software/bash/) for running script &
 [grim](https://gitlab.freedesktop.org/emersion/grim) for screen shot &
-[slurp](https://github.com/emersion/slurp) for select a region
+[slurp](https://github.com/emersion/slurp) for select a region &
+[foot](https://codeberg.org/dnkl/foot) for asking address and name of output file 
 
 ### for screen record:
 [bash](https://www.gnu.org/software/bash/) for running script  &
 [wf-recorder](https://github.com/ammen99/wf-recorder) for screen record  &
-[pipewire](https://gitlab.freedesktop.org/pipewire/pipewire/) for sound
+[pipewire](https://gitlab.freedesktop.org/pipewire/pipewire/) for sound &
+[foot](https://codeberg.org/dnkl/foot) for asking address and name of output file 
